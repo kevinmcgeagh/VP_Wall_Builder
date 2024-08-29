@@ -2,7 +2,9 @@
 
 ## Overview
 
-The VP Wall Builder / OBJ Generator is a Python-based application that allows users to create 3D models of LED walls. It generates OBJ files that can be used in various 3D modeling and rendering software.
+The VP Wall Builder / OBJ Generator is a Python-based application that allows users to create 3D models of LED walls. It generates OBJ files that can be used in various 3D modelling and rendering software.
+
+![GUI_preview](https://github.com/user-attachments/assets/a42abb5c-695f-4ef3-9470-e95e6bb02614)
 
 ## Features
 
